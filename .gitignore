@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 .DS_Store
+sgr_memberships.csv
+sgr_memberships_all.csv
